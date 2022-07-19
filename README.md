@@ -1,23 +1,24 @@
 # djangogirls
 
-### 使い方
-
 ### 説明
-
+djaogogirlsチュートリアル
 ### 必要なライブラリ
-python
+requirements.txt参照
 
 ### ライブラリなどのインストール方法
  
 ```bash
-pip install huga_package
+pip install -r requirements.txt
 ```
 
 ### 基本的な使い方
 ```bash
-git clone https://github.com/
-cd examples
-python demo.py
+git clone https://github.com/dsuke0526/my-first-blog.git
+git checkout　test-branch
+touch test.txt
+git add test.txt
+git commit
+git push origin test-branch
 ```
 
 ### 注意点
@@ -27,5 +28,5 @@ python demo.py
 * 所属
 * E-mail
 
-### ライセンス
+
 
