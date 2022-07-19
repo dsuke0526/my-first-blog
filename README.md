@@ -17,16 +17,16 @@ git clone https://github.com/dsuke0526/my-first-blog.git
 git checkout　test-branch
 touch test.txt
 git add test.txt
-git commit
+git commit"test"
+git status
 git push origin test-branch
 ```
 
 ### 注意点
 
 ### 作成情報
-* 作成者
-* 所属
-* E-mail
+* 作成者 daisuke
+
 
 
 
