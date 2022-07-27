@@ -13,13 +13,16 @@ pip install -r requirements.txt
 
 ### 基本的な使い方
 ```bash
+python3 -m venv myvenv
+ myvenv\Scripts\activate
+ pip install -r requirements.txt
+
 git clone https://github.com/dsuke0526/my-first-blog.git
-git checkout　test-branch
-touch test.txt
-git add test.txt
+git checkout　-b <新規ブランチ名>
+git add  <ファイル名>
 git commit"test"
 git status
-git push origin test-branch
+git push origin <ブランチ名>
 ```
 
 ### 注意点
