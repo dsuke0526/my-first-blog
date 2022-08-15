@@ -33,3 +33,10 @@ https://tutorial.djangogirls.org/ja/
 ```
 (myvenv) ~/djangogirls$ python manage.py runserver
 ```
+### gitの仕方
+```
+(myvenv) PS C:\Users\USER\djangogirls> git branch
+(myvenv) PS C:\Users\USER\djangogirls> git add
+(myvenv) PS C:\Users\USER\djangogirls> git commit -m""
+(myvenv) PS C:\Users\USER\djangogirls> git push origin ブランチ名
+```
